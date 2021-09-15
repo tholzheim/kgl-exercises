@@ -1,5 +1,10 @@
 # Knowledge Graph Lab
 
+# Usage
+
+Clone the respository and run `$ jupyter-lab` this will start the jupyter lab environment in your browser.
+
+
 # Notebooks
 
 ## Framework Introductions
