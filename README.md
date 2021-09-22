@@ -12,6 +12,7 @@ Clone the respository and run `$ jupyter-lab` this will start the jupyter lab en
 * [wikidataQueries](./wikidataQueries.ipynb)
 * [spacy](./spacy.ipynb)
 * [geograpy3](./geograpy3.ipynb)
+* [Wikidata-Taxonomy](./wdtaxonomy.ipynb)
 
 ## Example Exercises
 * [chemistry](./chemistry.ipynb)
