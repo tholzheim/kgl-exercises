@@ -1,9 +1,22 @@
-# Knowledge Graph Lab
+# RWTH i5 Knowledge Graphs Lab
+
+Welcome to the Knowledge Graphs Lab [Jupyter Notebooks](https://jupyter.org/).
+
+These exercises are available as Opensource at [github kgl-exercises](https://github.com/tholzheim/kgl-exercises)
+
 
 # Usage
 
 Clone the respository and run `$ jupyter-lab` this will start the jupyter lab environment in your browser.
 
+
+# Learning Goals
+With these exercise we want to make sure that you are aquainted with some base technologies and tools that you might need later in the lab:
+* [Python](https://www.python.org/)
+* Relevant Python Libraries
+* Natural Language Processing
+* Querying databases and Knowledge Graphs with SPARQL and SQL
+* Wikidata
 
 # Notebooks
 
@@ -30,6 +43,3 @@ Clone the respository and run `$ jupyter-lab` this will start the jupyter lab en
 * [newspaper3k](https://pypi.org/project/newspaper3k/)
 * [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
 * [hvplot](https://hvplot.holoviz.org/)
-
-
-
