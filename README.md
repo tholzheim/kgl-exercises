@@ -11,7 +11,7 @@ Clone the respository and run `$ jupyter-lab` this will start the jupyter lab en
 
 
 # Learning Goals
-With these exercise we want to make sure that you are aquainted with some base technologies and tools that you might need later in the lab:
+With these exercises we want to make sure that you are aquainted with some base technologies and tools that you might need later in the lab:
 * [Python](https://www.python.org/)
 * Relevant Python Libraries
 * Natural Language Processing
