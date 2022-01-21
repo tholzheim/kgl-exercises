@@ -26,6 +26,7 @@ With these exercises we want to make sure that you are aquainted with some base 
 * [spacy](./spacy.ipynb)
 * [geograpy3](./geograpy3.ipynb)
 * [Wikidata-Taxonomy](./wdtaxonomy.ipynb)
+* [Blazegraph](./IntroBlazegraph.ipynb)
 
 ## Example Exercises
 * [chemistry](./chemistry.ipynb)
