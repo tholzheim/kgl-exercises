@@ -2,12 +2,12 @@
 
 Welcome to the Knowledge Graphs Lab [Jupyter Notebooks](https://jupyter.org/).
 
-These exercises are available as Opensource at [github kgl-exercises](https://github.com/tholzheim/kgl-exercises)
+These introductions and exercises to possible frameworks are available as Opensource at [github kgl-exercises](https://github.com/tholzheim/kgl-exercises)
 
 
 # Usage
 
-Clone the respository and run `$ jupyter-lab` this will start the jupyter lab environment in your browser.
+Clone the repository and run `$ jupyter-lab` this will start the jupyter lab environment in your browser.
 
 
 # Learning Goals
@@ -29,7 +29,7 @@ With these exercises we want to make sure that you are aquainted with some base 
 * [Blazegraph](./IntroBlazegraph.ipynb)
 
 ## Example Exercises
-* [chemistry](./chemistry.ipynb)
+* [chemistry](./exercises/chemistry.ipynb)
 
 
 # Used Libraries
