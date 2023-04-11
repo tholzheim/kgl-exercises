@@ -22,11 +22,17 @@ With these exercises we want to make sure that you are aquainted with some base 
 
 ## Framework Introductions
 * [pyLODStorage](./pyLODStorage.ipynb)
-* [wikidataQueries](./wikidataQueries.ipynb)
-* [spacy](./spacy.ipynb)
-* [geograpy3](./geograpy3.ipynb)
-* [Wikidata-Taxonomy](./wdtaxonomy.ipynb)
+* [querying wikidata](./wikidataQueries.ipynb)
+* [Natural Language Processing (nlp) with spacy](./spacy.ipynb)
+* [location name resolving with geograpy3](./geograpy3.ipynb)
+
+## Graph Database Introductions
+* [Neo4J](./IntroNeo4J.ipynb)
 * [Blazegraph](./IntroBlazegraph.ipynb)
+
+## Useful Tools
+* [Wikidata-Taxonomy](./wdtaxonomy.ipynb)
+
 
 ## Example Exercises
 * [chemistry](./exercises/chemistry.ipynb)
